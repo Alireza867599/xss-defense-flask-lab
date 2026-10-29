@@ -1,6 +1,5 @@
 # xss-defense-flask-lab-Copy
-A Python Flask security project exploring Cross-Site Scripting (XSS) prevention through context-aware encoding, HTML sanitization, CSP, secure headers, and DOM protection. Copy description
-
+A Python Flask security project exploring Cross-Site Scripting (XSS) prevention through context-aware encoding, HTML sanitization, CSP, secure headers, and DOM protection.
 
 # XSS Defense Lab with Python and Flask
 
